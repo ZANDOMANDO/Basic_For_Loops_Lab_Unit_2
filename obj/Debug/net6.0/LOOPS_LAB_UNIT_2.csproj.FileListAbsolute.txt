@@ -1,0 +1,15 @@
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/bin/Debug/net6.0/LOOPS_LAB_UNIT_2
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/bin/Debug/net6.0/LOOPS_LAB_UNIT_2.deps.json
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/bin/Debug/net6.0/LOOPS_LAB_UNIT_2.runtimeconfig.json
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/bin/Debug/net6.0/LOOPS_LAB_UNIT_2.dll
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/bin/Debug/net6.0/LOOPS_LAB_UNIT_2.pdb
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.csproj.AssemblyReference.cache
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.AssemblyInfoInputs.cache
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.AssemblyInfo.cs
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.csproj.CoreCompileInputs.cache
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.dll
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/refint/LOOPS_LAB_UNIT_2.dll
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.pdb
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/LOOPS_LAB_UNIT_2.genruntimeconfig.cache
+/Users/eduardogarcia/Projects/LOOPS_LAB_UNIT_2/obj/Debug/net6.0/ref/LOOPS_LAB_UNIT_2.dll
